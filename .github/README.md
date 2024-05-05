@@ -1,4 +1,4 @@
-# ----- NOTE using AstroVim Config as a base for my custom config made some small changes here and there. 
+# ----- NOTE :- using AstroVim Config as a base for my custom config made some small changes here and there. 
 # update - link for base config is a read-only repo now. [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
 # base repo read me
